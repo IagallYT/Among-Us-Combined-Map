@@ -5,6 +5,9 @@ replaces the polus map with a new one called custom impostor. This new
 map is a cobination of rooms for all 4 maps from Among Us!
 
 ![1](https://user-images.githubusercontent.com/84431885/118767894-8593bb00-b8a8-11eb-9ed5-97c58411e6a6.png)
+![2](https://user-images.githubusercontent.com/84431885/118768038-b5db5980-b8a8-11eb-94b4-2ebdb0f6dba2.png)
+![3](https://user-images.githubusercontent.com/84431885/118768115-d2779180-b8a8-11eb-9e50-a0e62f7d71a0.png)
+![4](https://user-images.githubusercontent.com/84431885/118768119-d4415500-b8a8-11eb-992f-8a29968b1f78.png)
 
 Documents about Town of Impostor mod:
 https://github.com/Town-of-Impostors/TownOfImpostors\#readme
