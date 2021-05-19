@@ -4,6 +4,8 @@ Town of Impostor New Map This is an original Town of Impostor mod that
 replaces the polus map with a new one called custom impostor. This new
 map is a cobination of rooms for all 4 maps from Among Us!
 
+![1](https://user-images.githubusercontent.com/84431885/118767894-8593bb00-b8a8-11eb-9ed5-97c58411e6a6.png)
+
 Documents about Town of Impostor mod:
 https://github.com/Town-of-Impostors/TownOfImpostors\#readme
 
