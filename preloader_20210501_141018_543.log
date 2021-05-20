@@ -1,0 +1,15 @@
+System.TypeInitializationException: The type initializer for 'BepInEx.Preloader.Core.AssemblyPatcher' threw an exception. ---> System.IO.IOException: Sharing violation on path C:\Users\peemn\Desktop\Among Us\Town of Imposter\BepInEx\config\BepInEx.cfg
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <986ed57b9a8f4699a3c59a69eb05944a>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <986ed57b9a8f4699a3c59a69eb05944a>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <986ed57b9a8f4699a3c59a69eb05944a>:0 
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding) [0x00000] in <986ed57b9a8f4699a3c59a69eb05944a>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string,bool,System.Text.Encoding)
+  at BepInEx.Configuration.ConfigFile.Save () [0x00033] in <040f5b545e8c49ef987d3e59a3ac5c2e>:0 
+  at BepInEx.Configuration.ConfigFile.Bind[T] (BepInEx.Configuration.ConfigDefinition configDefinition, T defaultValue, BepInEx.Configuration.ConfigDescription configDescription) [0x000d2] in <040f5b545e8c49ef987d3e59a3ac5c2e>:0 
+  at BepInEx.Configuration.ConfigFile.Bind[T] (System.String section, System.String key, T defaultValue, System.String description) [0x00016] in <040f5b545e8c49ef987d3e59a3ac5c2e>:0 
+  at BepInEx.Preloader.Core.AssemblyPatcher..cctor () [0x00005] in <08f23271c4a14d58af329e89bbcfcdb9>:0 
+   --- End of inner exception stack trace ---
+  at BepInEx.IL2CPP.Preloader.Run () [0x001e9] in <8213cf87bb9b454c934afa0e94d6f8af>:0 
+  at BepInEx.IL2CPP.UnityPreloaderRunner.PreloaderMain (System.String[] args) [0x00079] in <8213cf87bb9b454c934afa0e94d6f8af>:0 
+  at BepInEx.IL2CPP.DoorstopEntrypoint.Main (System.String[] args) [0x00055] in <8213cf87bb9b454c934afa0e94d6f8af>:0 

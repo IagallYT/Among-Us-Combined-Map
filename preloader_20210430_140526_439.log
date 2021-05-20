@@ -1,0 +1,20 @@
+System.IO.IOException: The process cannot access the file 'Apple.dll' because it is being used by another process.
+
+
+Server stack trace: 
+  at System.IO.FileSystem.RemoveDirectoryRecursive (System.String fullPath, Interop+Kernel32+WIN32_FIND_DATA& findData, System.Boolean topLevel) [0x0014c] in <986ed57b9a8f4699a3c59a69eb05944a>:0 
+  at System.IO.FileSystem.RemoveDirectory (System.String fullPath, System.Boolean recursive) [0x00036] in <986ed57b9a8f4699a3c59a69eb05944a>:0 
+  at System.IO.Directory.Delete (System.String path, System.Boolean recursive) [0x00006] in <986ed57b9a8f4699a3c59a69eb05944a>:0 
+  at Il2CppDumper.DummyAssemblyExporter.Export (Il2CppDumper.Il2CppExecutor il2CppExecutor, System.String outputDir, System.Boolean addToken) [0x00014] in <166387f0efb648ada0f4ebff9bbbabfb>:0 
+  at Il2CppDumper.Il2CppDumper.PerformDump (System.String gameAssemblyPath, System.String metadataDatPath, System.String outputDirectoryPath, Il2CppDumper.Config config, System.Action`1[T] reportProgressAction) [0x0007f] in <166387f0efb648ada0f4ebff9bbbabfb>:0 
+  at BepInEx.IL2CPP.ProxyAssemblyGenerator+AppDomainRunner.GenerateAssembliesInternal (BepInEx.IL2CPP.ProxyAssemblyGenerator+AppDomainListener listener) [0x000e4] in <8213cf87bb9b454c934afa0e94d6f8af>:0 
+  at (wrapper remoting-invoke-with-check) BepInEx.IL2CPP.ProxyAssemblyGenerator+AppDomainRunner.GenerateAssembliesInternal(BepInEx.IL2CPP.ProxyAssemblyGenerator/AppDomainListener)
+  at (wrapper xdomain-dispatch) BepInEx.IL2CPP.ProxyAssemblyGenerator+AppDomainRunner.GenerateAssembliesInternal(object,byte[]&,byte[]&)
+
+Exception rethrown at [0]: 
+  at (wrapper xdomain-invoke) BepInEx.IL2CPP.ProxyAssemblyGenerator+AppDomainRunner.GenerateAssembliesInternal(BepInEx.IL2CPP.ProxyAssemblyGenerator/AppDomainListener)
+  at (wrapper remoting-invoke-with-check) BepInEx.IL2CPP.ProxyAssemblyGenerator+AppDomainRunner.GenerateAssembliesInternal(BepInEx.IL2CPP.ProxyAssemblyGenerator/AppDomainListener)
+  at BepInEx.IL2CPP.ProxyAssemblyGenerator.GenerateAssemblies () [0x0006d] in <8213cf87bb9b454c934afa0e94d6f8af>:0 
+  at BepInEx.IL2CPP.Preloader.Run () [0x001e9] in <8213cf87bb9b454c934afa0e94d6f8af>:0 
+  at BepInEx.IL2CPP.UnityPreloaderRunner.PreloaderMain (System.String[] args) [0x00079] in <8213cf87bb9b454c934afa0e94d6f8af>:0 
+  at BepInEx.IL2CPP.DoorstopEntrypoint.Main (System.String[] args) [0x00055] in <8213cf87bb9b454c934afa0e94d6f8af>:0 
