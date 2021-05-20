@@ -15,7 +15,7 @@ https://github.com/Town-of-Impostors/TownOfImpostors
 ![5](https://user-images.githubusercontent.com/84431885/118768349-18345a00-b8a9-11eb-93d6-a485e51deaa2.png)
 
 How to download?
-You can download the zip file from github releases that match to your version.
+You can download the .rar file from github releases in the version that you want.
 No need use steam! And it's free!!!
 
 Why you should you download?
@@ -30,4 +30,4 @@ and the operative role (that can place down gadgets that allow them to track the
 
 Credits to: @AJMix for Town of Impostor mod
 
-And don't forget to like and subscribe to Iamgoodatlifelol for more mods!
+And don't forget to subscribe to Iamgoodatlifelol with notifications on for more mods like this!
