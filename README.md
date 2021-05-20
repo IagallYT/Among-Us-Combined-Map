@@ -10,7 +10,7 @@ map is a cobination of rooms for all 4 maps from Among Us!
 ![4](https://user-images.githubusercontent.com/84431885/118768119-d4415500-b8a8-11eb-992f-8a29968b1f78.png)
 
 Documents about Town of Impostor mod:
-https://github.com/Town-of-Impostors/TownOfImpostors\#readme
+https://github.com/Town-of-Impostors/TownOfImpostors
 
 ![5](https://user-images.githubusercontent.com/84431885/118768349-18345a00-b8a9-11eb-93d6-a485e51deaa2.png)
 
