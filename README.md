@@ -28,8 +28,8 @@ And it's very fun when play hidenseek with your friend that loaded this mod too!
 
 And also, don't forget to subscribe to Iamgoodatlifelol with notifications on for more mods!
 
-My Youtube Channel: https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw
+My Youtube Channel: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
 
-| Among Us Version | Mod Version | Download Link
+| Among Us Version | Mod Version | Download
 | --- | --- | ---|
-| 2021.4.12s | v1.0.0 | Download
+| 2021.4.12s | v1.0.0 | [Download](https://drive.google.com/uc?export=download&id=1mipm3PvE8WwRrv37PsuxAGA2zClrjOak)
