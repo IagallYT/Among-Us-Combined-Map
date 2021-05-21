@@ -1,0 +1,14 @@
+﻿[Message: Preloader] BepInEx 6.0.0-reactor.18 - Among Us
+[Message: Preloader] BLEEDING EDGE Build #18 from f7d481dda69a6a4964d41d3558a215049e260077 at reactor
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Info   : Preloader] Running under Unity v2020.2.6.9052483
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:   BepInEx] Chainloader initialized
+[Info   :Unhollower] Registered mono type UnhollowerRuntimeLib.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Reactor 0.4.0-ci.52]
+[Info   :Unhollower] Registered mono type Reactor.Coroutines+Component in il2cpp domain
+[Info   :Unhollower] Registered mono type Reactor.ReactorPlugin+ReactorComponent in il2cpp domain
+[Message:   BepInEx] Chainloader startup complete
+[Info   :   Reactor] Connected to a modded server (Among Us 2021.4.12, 0 plugins), sending mod declarations
