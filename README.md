@@ -32,4 +32,4 @@ My Youtube Channel: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9
 
 | Among Us Version | Mod Version | Download
 | --- | --- | ---|
-| 2021.4.12s | v1.0.0 | [Download](https://drive.google.com/uc?export=download&id=1mipm3PvE8WwRrv37PsuxAGA2zClrjOak)
+| 2021.4.12s | v1.0.0 | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/IagallYT/Among-Us-Combined-Map/releases/tag/1.0.0)
