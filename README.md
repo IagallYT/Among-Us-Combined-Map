@@ -12,7 +12,7 @@ How to download?
 
 Requirements:
 - Among Us from Steam
-- (If you don't want to buy Among Us!, you can get free Among Us from my Youtube channel which I will upload free Among Us links from steam that works)
+- Or you can just download Among Us from [my YouTube channel](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw) (I will upload free Among Us there)
 
 You need to download the .zip file from github releases that matches to your Among Us version.
 If the version doesn't match, the mod won't work.
