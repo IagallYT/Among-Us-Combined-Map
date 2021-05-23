@@ -35,9 +35,12 @@ If the version doesn't match, the mod won't work.**
 
 ### Steps:
 1. Download the file from [releases](https://github.com/IagallYT/Among-Us-Combined-Map/releases) that match to your Among Us version
-2. Move the zip file to the folder that contains Among Us.exe
-3. Unzip the file you've download
-4. Launch Among Us!
+2. Make a new folder in desktop and named whatever you want.
+3. Copy all files from your Among Us folder to the folder that you've created.
+4. Copy the zip file that you have downloaded and paste to that new folder.
+5. Unzip the zipped file.
+6. Then you can now delete the zipped file.
+7. Launch Among Us!
 
 Your Among Us should looks like this before launching!
 
