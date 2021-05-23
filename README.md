@@ -25,7 +25,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 
 ## How to download
 
-Requirements:
+**Requirements:**
 - Among Us from Steam
 - Or you can just download free Among Us from [my YouTube channel](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw) (I will upload free Among Us there)
 
