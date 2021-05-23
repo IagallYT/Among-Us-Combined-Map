@@ -14,6 +14,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
   - [Uninstalling the mod](#uninstalling-the-mod)
 - [Credits](#credits)
 - [Social medias](#social-medias)
+- [My other projects](#my-other-projects)
 ***
 
 # Releases
@@ -58,4 +59,6 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
 # Social medias
 Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
 
-Discord: https://discord.gg/28keKeAF
+Discord: 
+
+# My other projects
