@@ -32,3 +32,10 @@ Because it was a very big map that contains many rooms and tasks from all 4 maps
 And it's very fun when play hidenseek with your friend that loaded this mod too!
 
 And also, don't forget to subscribe to [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw) with notifications on for more mods!
+
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
