@@ -12,7 +12,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 - [Installation](#installation)  
   - [How to download](#how-to-download)
   - [Uninstalling the mod](#uninstalling-the-mod)
-- [License](#license)
+- [Credits](#credits)
 - [Social medias](#social-medias)
 ***
 
@@ -51,8 +51,9 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
 - `winhttp.dll`
 ***
 
-# License
-[BepinEx](https://github.com/BepInEx/BepInEx) is distributed under **LGPL-2.1** License.
+# Credits
+[BepinEx](https://github.com/BepInEx/BepInEx) for hooking game functions.
+[Reactor](https://github.com/NuclearPowered/Reactor) - The framework of the mod.
 ***
 
 # Social medias
