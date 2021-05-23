@@ -8,10 +8,9 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 # Table of Contents:
 
 - [Releases](#releases)  
-- [Download](#download)  
+- [Installation](#installation)  
   - [How to download](#how-to-download)
-  - [Why should you download](#why-should-you-download)
-- [Uninstalling the mod](#uninstalling-the-mod)
+  - [Uninstalling the mod](#uninstalling-the-mod)
 - [Social medias](#social-medias)
 
 # Releases
@@ -19,7 +18,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 | --- | --- | ---|
 | 2021.4.12s | v1.0.0 | [Download](https://github.com/IagallYT/Among-Us-Combined-Map/releases/download/1.0.0/Among.Us.Combined.Map.zip)
 
-# Download
+# Installation 
 
 ## How to download
 
@@ -27,8 +26,8 @@ Requirements:
 - Among Us from Steam
 - Or you can just download free Among Us from [my YouTube channel](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw) (I will upload free Among Us there)
 
-You need to download the .zip file from github releases that matches to your Among Us version.
-If the version doesn't match, the mod won't work.
+**You need to download the .zip file from github releases that matches to your Among Us version.
+If the version doesn't match, the mod won't work.**
 
 ### Steps:
 1. Download the file from releases that match to your Among Us version
@@ -40,15 +39,14 @@ Your Among Us should looks like this before launching!
 
 ![21 05 2021_15 55 01_REC](https://user-images.githubusercontent.com/84431885/119111121-f7a50500-ba4c-11eb-9a4c-8ac51b7fa45e.png)
 
-## Why should you download
-
-Because it was a very big map that contains many rooms and tasks from all 4 maps in Among Us.
-And it's very fun when play hidenseek with your friend that loaded this mod too!
-
 ## Uninstalling the mod
-If you want to unimstall the mod and make it become a normal Among Us game, delete these files.
+If you want to uninstall the mod and make it become a normal Among Us game, delete these files.
+- `BepInEx folder`
+- `mono folder`
+- `doorstop_config.ini`
+- `winhttp.dll`
 
-## Social medias
+# Social medias
 Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
 
 Discord: https://discord.gg/28keKeAF
