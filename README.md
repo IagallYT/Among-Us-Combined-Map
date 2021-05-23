@@ -52,7 +52,7 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
 ***
 
 # Credits
-[BepinEx](https://github.com/BepInEx/BepInEx) for hooking game functions.
+[BepinEx](https://github.com/BepInEx/BepInEx) - For hooking game functions.
 [Reactor](https://github.com/NuclearPowered/Reactor) - The framework of the mod.
 ***
 
