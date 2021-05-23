@@ -12,6 +12,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 - [Installation](#installation)  
   - [How to download](#how-to-download)
   - [Uninstalling the mod](#uninstalling-the-mod)
+- [Licenses](#licenses)
 - [Social medias](#social-medias)
 ***
 
@@ -48,6 +49,10 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
 - `mono folder`
 - `doorstop_config.ini`
 - `winhttp.dll`
+***
+
+# Licenses
+[BepinEx](https://github.com/BepInEx/BepInEx) is distributed under **LGPL-2.1** License.
 ***
 
 # Social medias
