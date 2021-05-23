@@ -7,7 +7,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 
 - [Releases](#releases)  
 - [Download](#download)  
-  - [How to download](#howtodownload)
+  - [How to download](#how-to-download)
 
 ## Releases
 | Among Us Version | Mod Version | Download
