@@ -16,7 +16,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 
 ## Download
 
-## How to download
+### How to download
 
 Requirements:
 - Among Us from Steam
