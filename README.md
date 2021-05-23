@@ -4,6 +4,7 @@ This is a BepInEx mod that replaces the Polus map with a new map called Custom I
 This new map is the cobination of many rooms from all 4 maps from Among Us!
 
 **Every player in the room must have the mod installed for it to work correctly. Please DO NOT play this mod on public lobbies.**
+***
 
 # Table of Contents:
 
@@ -12,11 +13,13 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
   - [How to download](#how-to-download)
   - [Uninstalling the mod](#uninstalling-the-mod)
 - [Social medias](#social-medias)
+***
 
 # Releases
 | Among Us Version | Mod Version | Download
 | --- | --- | ---|
 | 2021.4.12s | v1.0.0 | [Download](https://github.com/IagallYT/Among-Us-Combined-Map/releases/download/1.0.0/Among.Us.Combined.Map.zip)
+***
 
 # Installation 
 
@@ -45,6 +48,7 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
 - `mono folder`
 - `doorstop_config.ini`
 - `winhttp.dll`
+***
 
 # Social medias
 Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
