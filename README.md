@@ -9,6 +9,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 - [Download](#download)  
   - [How to download](#how-to-download)
   - [Why should you download](#why-should-you-download)
+- [Social medias](#social-medias)
 
 # Releases
 | Among Us Version | Mod Version | Download
@@ -41,4 +42,8 @@ Your Among Us should looks like this before launching!
 Because it was a very big map that contains many rooms and tasks from all 4 maps in Among Us.
 And it's very fun when play hidenseek with your friend that loaded this mod too!
 
-And also, don't forget to subscribe to [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw) with notifications on for more mods!
+## Social medias
+Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
+
+Discord: https://discord.gg/28keKeAF
+
