@@ -34,7 +34,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 If the version doesn't match, the mod won't work.**
 
 ### Steps:
-1. Download the file from releases that match to your Among Us version
+1. Download the file from [releases](https://github.com/IagallYT/Among-Us-Combined-Map/releases) that match to your Among Us version
 2. Move the zip file to the folder that contains Among Us.exe
 3. Unzip the file you've download
 4. Launch Among Us!
