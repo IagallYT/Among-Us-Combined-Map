@@ -3,10 +3,16 @@ Among Us Combined Map
 This is a BepInEx mod that replaces the Polus map with a new map called Custom Impostor.
 This new map is the cobination of many rooms from all 4 maps from Among Us!
 
+##### Table of Contents  
+[Releases](#releases)  
+[Emphasis](#emphasis)  
+## Releases
 Releases:
 | Among Us Version | Mod Version | Download
 | --- | --- | ---|
 | 2021.4.12s | v1.0.0 | [Download](https://github.com/IagallYT/Among-Us-Combined-Map/releases/download/1.0.0/Among.Us.Combined.Map.zip)
+
+## Emphasis
 
 How to download?
 
@@ -32,14 +38,3 @@ Because it was a very big map that contains many rooms and tasks from all 4 maps
 And it's very fun when play hidenseek with your friend that loaded this mod too!
 
 And also, don't forget to subscribe to [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw) with notifications on for more mods!
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-
-
-
-
-
-## Headers
-## Emphasis
