@@ -11,6 +11,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 - [Download](#download)  
   - [How to download](#how-to-download)
   - [Why should you download](#why-should-you-download)
+- [Uninstalling the mod](uninstalling-the-mod)
 - [Social medias](#social-medias)
 
 # Releases
@@ -43,6 +44,9 @@ Your Among Us should looks like this before launching!
 
 Because it was a very big map that contains many rooms and tasks from all 4 maps in Among Us.
 And it's very fun when play hidenseek with your friend that loaded this mod too!
+
+## Uninstalling the mod
+If you want to unimstall the mod and make it become a normal Among Us game, delete these files.
 
 ## Social medias
 Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
