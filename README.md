@@ -11,7 +11,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 - [Download](#download)  
   - [How to download](#how-to-download)
   - [Why should you download](#why-should-you-download)
-- [Uninstalling the mod](uninstalling-the-mod)
+- [Uninstalling the mod](#uninstalling-the-mod)
 - [Social medias](#social-medias)
 
 # Releases
