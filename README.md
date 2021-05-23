@@ -12,6 +12,8 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 - [Installation](#installation)  
   - [How to download](#how-to-download)
   - [Uninstalling the mod](#uninstalling-the-mod)
+- [Troubleshooting](#troubleshooting)
+  - [Known Errors](#known-errors)
 - [Credits](#credits)
 - [Social medias](#social-medias)
 - [My other projects](#my-other-projects)
@@ -52,6 +54,21 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
 - `mono folder`
 - `doorstop_config.ini`
 - `winhttp.dll`
+***
+
+# Troubleshooting
+
+## Known Errors
+
+1. The mod hasn't come yet eventhough you unzipped the file already. (If the mod works, there will be the word LevelImposter in the first page)
+- Wait a little bit and then launch Among Us again.
+- If you wait for more than 5 minutes already but the mod doesn't come yet. Check if you do everything correctly in steps by steps. **Check the version carefully (every number and letters must match to your Among Us version)**.
+- Check if there are 4 new files.
+  - `BepInEx folder`
+  - `mono folder`
+  - `doorstop_config.ini`
+  - `winhttp.dll`
+- If the mod still doesn't come yet, contact me on [discord](
 ***
 
 # Credits
