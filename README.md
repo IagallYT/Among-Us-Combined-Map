@@ -19,13 +19,7 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 # Releases
 | Among Us Version | Mod Version | Download
 | --- | --- | ---|
-| 2021.4.12s | v1.0.0 | [Download](https://github.com/IagallYT/Among-Us-Combined-Map/releases/download/1.0.0/Among.Us.Combined.Map.zip)
-<details><summary>Changelogs</summary>
-<p>
-<details><summary>1.0.0</summary>
-<p>
-- First release
-
+| 2021.4.12s | v1.0.0 | [Download](https://github.com/IagallYT/Among-Us-Combined-Map)
 ***
 
 # Installation 
