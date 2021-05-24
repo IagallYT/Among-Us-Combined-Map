@@ -4,7 +4,6 @@ This is a BepInEx mod that replaces the Polus map with a new map called Custom I
 This new map is the cobination of many rooms from all 4 maps from Among Us!
 
 **Every player in the room must have the mod installed for it to work correctly. Please DO NOT play Polus Map on public lobbies.**
-***
 
 # Table of Contents:
 
@@ -23,6 +22,15 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 | Among Us Version | Mod Version | Download
 | --- | --- | ---|
 | 2021.4.12s | v1.0.0 | [Download](https://github.com/IagallYT/Among-Us-Combined-Map/releases/download/1.0.0/CombinedMap1.0.0.zip)
+<details>
+  <summary> Changelog </summary>
+ <details>
+  <summary> v1.0.0 </summary>
+  <ul> <li> 2021.4.12s support </li> </ul>
+ </details>
+  </details>
+  
+-----------------------
 
 # Installation 
 
