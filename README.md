@@ -6,13 +6,12 @@ This new map is the cobination of many rooms from all 4 maps from Among Us!
 **Every player in the room must have the mod installed for it to work correctly. Please DO NOT play Polus Map on public lobbies.**
 
 ![21 05 2021_17 18 11_REC](https://user-images.githubusercontent.com/84431885/119312549-b4d96c00-bc9c-11eb-98d4-675d4fc32ef3.png)
-<img src="https://user-images.githubusercontent.com/84431885/119311149-e5200b00-bc9a-11eb-98d9-ec8eb452a593.png" width="700" height="400">
-<img src="https://user-images.githubusercontent.com/84431885/119311145-e3564780-bc9a-11eb-98a6-c82f961a3b4a.png" width="700" height="400">
-<img src="https://user-images.githubusercontent.com/84431885/119311153-e6513800-bc9a-11eb-9c8c-388d15821b4f.png" width="700" height="400">
-<img src="https://user-images.githubusercontent.com/84431885/119311154-e6e9ce80-bc9a-11eb-9eb1-0df2cc23d44b.png" width="700" height="400">
-<img src="https://user-images.githubusercontent.com/84431885/119311152-e5b8a180-bc9a-11eb-83bf-72627152d233.png" width="700" height="400">
-<img src="https://user-images.githubusercontent.com/84431885/119311148-e4877480-bc9a-11eb-871e-3dd02561a496.png" width="700" height="400">
-
+![21 05 2021_17 18 37_REC](https://user-images.githubusercontent.com/84431885/119312644-d175a400-bc9c-11eb-8ab7-f0a6e62678ab.png)
+![21 05 2021_17 19 17_REC](https://user-images.githubusercontent.com/84431885/119312650-d33f6780-bc9c-11eb-8546-0254aa49a735.png)
+![21 05 2021_17 20 21_REC](https://user-images.githubusercontent.com/84431885/119312652-d3d7fe00-bc9c-11eb-83f9-31d3c6796088.png)
+![21 05 2021_17 20 37_REC](https://user-images.githubusercontent.com/84431885/119312653-d4709480-bc9c-11eb-8caf-a5bcb6ede1de.png)
+![21 05 2021_17 21 36_REC](https://user-images.githubusercontent.com/84431885/119312656-d4709480-bc9c-11eb-80e7-a7fd2dc63fe6.png)
+![21 05 2021_17 22 06_REC](https://user-images.githubusercontent.com/84431885/119312657-d5092b00-bc9c-11eb-8b84-3ddfc98a47ec.png)
 
 # Table of Contents:
 
