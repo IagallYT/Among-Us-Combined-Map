@@ -76,7 +76,7 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
   - `mono folder`
   - `doorstop_config.ini`
   - `winhttp.dll`
-- If the mod still doesn't come yet, contact me on [discord](
+- If the mod still doesn't come yet, contact me on [discord](https://discord.gg/bucGrNRuCF)
 ***
 
 # Credits
@@ -87,6 +87,6 @@ If you want to uninstall the mod and make it become a normal Among Us game, dele
 # Social medias
 Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
 
-Discord: 
+Discord: https://discord.gg/bucGrNRuCF
 
 # My other projects
